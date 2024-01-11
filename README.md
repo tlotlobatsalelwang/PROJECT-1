@@ -1,1 +1,2 @@
-# PROJECT-1
+PROJECT-1
+This notebook provides an overview of the steps involved in cleaning and processing data for a machine learning model. The data is pre-processed by handling missing values, outliers, categorical variables, feature scaling, duplicates, and unrealistic values. The pre-processed data is then used to train a logistic regression model to predict the risk flag. The model is evaluated using accuracy, confusion matrix, and classification report
